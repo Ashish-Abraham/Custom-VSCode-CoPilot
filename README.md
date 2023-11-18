@@ -1,2 +1,2 @@
 # Custom-VSCode-CoPilot 🤖
-Leveraging LLMs to build your own personal coding assistant on VSCode
+Build and use your own personal coding assistant on VSCode using open-source large language models.
