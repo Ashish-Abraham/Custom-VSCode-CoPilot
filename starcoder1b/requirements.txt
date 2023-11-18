@@ -1,0 +1,8 @@
+kserve
+ray[serve]
+transformers
+torch
+huggingface_hub
+accelerate
+peft
+bitsandbytes
